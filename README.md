@@ -10,4 +10,6 @@ HOW TO USE IN-GAME:
 
 2. Inside of your Team Fortress 2 folder browse \tf\cfg and just copy or move the autoexec.cfg into the \cfg folder
 
+![Screenshot 2024-12-14 002829](https://github.com/user-attachments/assets/e52688ff-8351-4d0f-bfba-0db23b975128)
+
 3. Congragulations! You now have an epic config file that can boost your framerate!
